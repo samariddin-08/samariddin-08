@@ -9,8 +9,7 @@ Men Java backend dasturchisiman, Spring Boot va PostgreSQL bilan ishlayman. REST
 - **API:** REST
 
 ## Loyihalarim 📚
-- **[MentorHub](https://github.com/username/mentorhub)**: O'zbekiston uchun mentoring platformasi.
-- **[To-do App](https://github.com/username/todo-app)**: REST API bilan vazifalar boshqaruvi.
+- **[Super_oil  App](https://github.com/MrXDomen/super_oil3.0))**: REST API bilan vazifalar boshqaruvi.
 
 ## Aloqa 📫
 - Email: samariddinruziqulov03@gmail.com
