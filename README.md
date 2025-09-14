@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**samariddin-08/samariddin-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salom, men [Samariddin] 👋
+Men Java backend dasturchisiman, Spring Boot va PostgreSQL bilan ishlayman. REST API  integratsiyalarida tajribam bor.
 
-Here are some ideas to get you started:
+## Ko'nikmalar 🛠️
+- **Backend:** Java, Spring Boot, Spring Security, PostgreSQL
+- **Tools:** Git, Docker, Postman
+- **API:** REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Loyihalarim 📚
+- **[MentorHub](https://github.com/username/mentorhub)**: O'zbekiston uchun mentoring platformasi.
+- **[To-do App](https://github.com/username/todo-app)**: REST API bilan vazifalar boshqaruvi.
+
+## Aloqa 📫
+- Email: samariddinruziqulov03@gmail.com
+- Telegram: tm.e @Samariddin_0804
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
