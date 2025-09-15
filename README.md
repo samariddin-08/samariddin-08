@@ -9,7 +9,7 @@ Men Java backend dasturchisiman, Spring Boot va PostgreSQL bilan ishlayman. REST
 - **API:** REST
 
 ## Loyihalarim 📚
- **[Work_place]((https://github.com/samariddin-08/IshJoy.uz)))**:- Startup project1
+ **[Work_place](https://github.com/samariddin-08/IshJoy.uz))**:- Startup project1
  **[Super_oil  App](https://github.com/MrXDomen/super_oil3.0))**:- REST API bilan vazifalar boshqaruvi.
 
 ## Aloqa 📫
